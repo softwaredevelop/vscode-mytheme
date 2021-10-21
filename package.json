@@ -1,0 +1,126 @@
+{
+    "name": "mytheme",
+    "displayName": "MyTheme",
+    "description": "It's MyTheme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MyTheme - Ace Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ace-palenight-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Dark Pines",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-pines-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Dark Rock",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-rock-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Everforest Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/everforest-dark-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Material Basic - Breeze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/material-breeze-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Monokuro Yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokuro-yellow-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Monokuro Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokuro-orange-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Nord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Nord Deep",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-deep-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Visible Comments Nord Deep",
+                "uiTheme": "vs-dark",
+                "path": "./themes/visible-comments-nord-deep-color-theme.json"
+            },
+            {
+                "label": "MyTheme - One Monokai Shadow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-monokai-shadow-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Pale Fire High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pale-fire-high-contrast-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Red Mint",
+                "uiTheme": "vs-dark",
+                "path": "./themes/red-mint-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Thanatos",
+                "uiTheme": "vs-dark",
+                "path": "./themes/thanatos-dark-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Zenburn Dark Matter - Cold - Morion",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-dark-matter-cold-morion-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Zenburn Dark Matter - Nadir - Aquamarine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-dark-matter-nadir-aquamarine-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Zenburn Dark Matter - Nirvana - Kronos",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-dark-matter-nirvana-kronos-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Zenburn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zenburn-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Ayu Light Bordered",
+                "uiTheme": "vs",
+                "path": "./themes/ayu-light-bordered-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Everforest Light",
+                "uiTheme": "vs",
+                "path": "./themes/everforest-light-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Pastel Forest Bright",
+                "uiTheme": "vs",
+                "path": "./themes/pastel-forest-bright-color-theme.json"
+            },
+            {
+                "label": "MyTheme - Thanatos Light",
+                "uiTheme": "vs",
+                "path": "./themes/thanatos-light-color-theme.json"
+            }
+        ]
+    }
+}
